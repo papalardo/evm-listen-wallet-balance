@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ethers": "^6.7.1",
+    "zod": "^3.22.2"
+  },
+  "scripts": {
+    "start": "bun run ./src/main.ts --watch"
+  }
+}
